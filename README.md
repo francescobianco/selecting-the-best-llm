@@ -24,7 +24,7 @@ Today, having access to one or more Large Language Models (LLMs) for your projec
 | Service Cost     | No montly or annual payments        | Less than 50$/year      | Less than 100$/year  | Less than 200$/year   | More than 500$/year      |
 | Hardware Cost    | No dedicated hardware are needed    | Only CPUs               | Mush have a good GPU | Hosted GPU in Cloud   | Advanced Cloud           |
 | Tech Skill       | No programming skill or sys admin   | Just python             | Pro python developer | Basic DevOps and IaC  | Pro DevOps and IaC       |
-| ML Skill         | No ML skills needed                 | Just manage model files | Work with training   | Pro ML skills         | Pro ML and Domain Espert |
+| ML Skill         | No ML skills needed                 | Just manage model files | Work with training   | Pro ML skills         | Pro ML and Domain Expert |
 | Maintenance      | No maintenance needed               | Just update software    | Soft tuning on scale | Hard tuning on scale  | Human supervisor needed  |
 
 ## License
