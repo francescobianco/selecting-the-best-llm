@@ -27,3 +27,7 @@ Today, having access to one or more Large Language Models (LLMs) for your projec
 | Tech Skill       | No programming skill or sys admin   | Just python             | Pro python developer | Basic DevOps and IaC  | Pro DevOps and IaC       |
 | ML Skill         | No ML skills needed                 | Just manage model files | Work with training   | Pro ML skills         | Pro ML and Domain Espert |
 | Maintenance      | No maintenance needed               | Just update software    | Soft tuning on scale | Hard tuning on scale  | Human supervisor needed  |
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
