@@ -2,11 +2,10 @@
 
 Today, having access to one or more Large Language Models (LLMs) for your projects is essential. The case of the [Cheshire Cat](https://github.com/cheshire-cat-ai/core) project highlights the potential to build highly advanced features when you have access to an LLM. That said, understanding which LLM is the best fit for your needs is crucial. In this repository, we present a grid to help you make an informed choice based on your skills, budget, ambitions, and more.
 
-## LLM Matrics
+## LLM Metrics
 
 | Service                        | Service Cost | Hardware Cost | Tech Skill | ML Skill | Maintenance |
 |--------------------------------|--------------|---------------|------------|----------|-------------|
-| Custom LLM                     | 4            | 2             | 3          | 4        | 3           |
 | Self-hosted llama-cpp-python   | 3            | 3             | 4          | 4        | 4           |
 | OpenAI ChatGPT                 | 3            | 0             | 3          | 3        | 2           |
 | OpenAI GPT-3                   | 4            | 0             | 4          | 4        | 2           |
@@ -18,9 +17,9 @@ Today, having access to one or more Large Language Models (LLMs) for your projec
 | Azure OpenAI Chat Models       | 3            | 3             | 3          | 4        | 3           |
 | Anthropic                      | 4            | 2             | 4          | 4        | 3           |
 | Google PaLM                    | 4            | 3             | 4          | 4        | 3           |
+| Custom LLM                     | 4            | 2             | 3          | 4        | 3           |
 
-
-| Metric           | "0" Means                           | "1" Means               | "2" Means            | "3" Means             | "4" Means                | 
+| Metrics          | "0" Means                           | "1" Means               | "2" Means            | "3" Means             | "4" Means                | 
 |------------------|-------------------------------------|-------------------------|----------------------|-----------------------|--------------------------|
 | Service Cost     | No montly or annual payments        | Less than 50$/year      | Less than 100$/year  | Less than 200$/year   | More than 500$/year      |
 | Hardware Cost    | No dedicated hardware are needed    | Only CPUs               | Mush have a good GPU | Hosted GPU in Cloud   | Advanced Cloud           |
